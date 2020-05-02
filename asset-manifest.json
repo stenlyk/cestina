@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cestina/static/css/main.e51bfbef.chunk.css",
+    "main.js": "/cestina/static/js/main.a22f01eb.chunk.js",
+    "main.js.map": "/cestina/static/js/main.a22f01eb.chunk.js.map",
+    "runtime-main.js": "/cestina/static/js/runtime-main.8a251aa2.js",
+    "runtime-main.js.map": "/cestina/static/js/runtime-main.8a251aa2.js.map",
+    "static/css/2.f933cb1f.chunk.css": "/cestina/static/css/2.f933cb1f.chunk.css",
+    "static/js/2.af732397.chunk.js": "/cestina/static/js/2.af732397.chunk.js",
+    "static/js/2.af732397.chunk.js.map": "/cestina/static/js/2.af732397.chunk.js.map",
+    "index.html": "/cestina/index.html",
+    "precache-manifest.84b5944709c0de78a994519fd235ce8f.js": "/cestina/precache-manifest.84b5944709c0de78a994519fd235ce8f.js",
+    "service-worker.js": "/cestina/service-worker.js",
+    "static/css/2.f933cb1f.chunk.css.map": "/cestina/static/css/2.f933cb1f.chunk.css.map",
+    "static/css/main.e51bfbef.chunk.css.map": "/cestina/static/css/main.e51bfbef.chunk.css.map",
+    "static/js/2.af732397.chunk.js.LICENSE.txt": "/cestina/static/js/2.af732397.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a251aa2.js",
+    "static/css/2.f933cb1f.chunk.css",
+    "static/js/2.af732397.chunk.js",
+    "static/css/main.e51bfbef.chunk.css",
+    "static/js/main.a22f01eb.chunk.js"
+  ]
+}
